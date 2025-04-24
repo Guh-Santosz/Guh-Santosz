@@ -28,8 +28,3 @@
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Guh-Santosz&repo=repo2&theme=radical)](https://github.com/paul-linguica/repo2)
 
 
-## 💼 **Contato**
-
-- **GitHub**: [github.com/paul-linguica](https://github.com/Guh-Santosz)
-- **LinkedIn**: [linkedin.com/in/paul-linguica](https://www.linkedin.com/in/Guh-Santosz)
-- **Email**: paul.linguica@gmail.com
