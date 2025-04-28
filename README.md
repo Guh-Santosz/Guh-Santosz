@@ -5,7 +5,7 @@
   Me chamo Gustavo, sou estudante de tecnologia
 </p>
 
-## 📊 **Meu Perfil no GitHub**
+## 📊 **Meu Perfil**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guh-Santosz&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
