@@ -63,9 +63,6 @@
   <a href="https://www.linkedin.com/in/gustavo-santos-4982842b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/guh_santosz?igsh=MTljeDV4MHZybmprYg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:guhesisa879@email.com" target="_blank"> 
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 </p>
