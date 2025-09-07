@@ -43,8 +43,8 @@
 | Nome do Curso                                         | Instituição                            | Duração | Estado      |
 |-------------------------------------------------------|-----------------------------------------|---------|-------------|
 | [IT Essentials](https://drive.google.com/file/d/1zz3Vr-2yxxR8aAqbJZgezAXEUdRTW3E6/view?usp=sharing)| Cisco Networking Academy| 60h | ✅ Concluído |
-| [Trabalhando com APIs C# / JavaScript](https://drive.google.com/file/d/1LAOb-d3ONz_Lpd0XKhSWEs1QCHiqrBjA/view?usp=sharing)| FATEC Ministro Ralph Biasi| 12h | ✅ Concluído |
-| [Introdução à Linguagem Java](https://drive.google.com/file/d/17s_nsld8aytNJCwxgsGtOWxg-YCFwSlQ/view?usp=sharing)| FATEC Ministro Ralph Biasi | 21h| ✅ Concluído |
+| [Trabalhando com APIs C# / JavaScript](https://drive.google.com/file/d/1LAOb-d3ONz_Lpd0XKhSWEs1QCHiqrBjA/view?usp=sharing)| FATEC Ministro Ralph Biasi| 20h | ✅ Concluído |
+| [Introdução à Linguagem Java](https://drive.google.com/file/d/17s_nsld8aytNJCwxgsGtOWxg-YCFwSlQ/view?usp=sharing)| FATEC Ministro Ralph Biasi | 24h| ✅ Concluído |
 
 ---
 
