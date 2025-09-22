@@ -45,6 +45,7 @@
 | [IT Essentials](https://drive.google.com/file/d/1zz3Vr-2yxxR8aAqbJZgezAXEUdRTW3E6/view?usp=sharing)| Cisco Networking Academy| 60h | ✅ Concluído |
 | [Trabalhando com APIs C# / JavaScript](https://drive.google.com/file/d/1LAOb-d3ONz_Lpd0XKhSWEs1QCHiqrBjA/view?usp=sharing)| FATEC Ministro Ralph Biasi| 20h | ✅ Concluído |
 | [Introdução à Linguagem Java](https://drive.google.com/file/d/17s_nsld8aytNJCwxgsGtOWxg-YCFwSlQ/view?usp=sharing)| FATEC Ministro Ralph Biasi | 24h| ✅ Concluído |
+| [Gerenciamento de Ameaças Cibernéticas](https://drive.google.com/file/d/1lWdgHmuMfCnhwJu4yVmTWJ71wAkMkMUS/view?usp=sharing)| Cisco Networking Academy | 16h| ✅ Concluído |
 
 ---
 
