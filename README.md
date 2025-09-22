@@ -6,7 +6,7 @@
 
 ## 😜 Sobre mim
 
-👋 👋 Olá! Meu nome é **Gustavo Santos**, tenho 19 anos, sou apaixonado por tecnologia e busco me desenvolver continuamente para me tornar um profissional cada vez melhor.
+👋 Olá! Meu nome é **Gustavo Santos**, tenho 19 anos, sou apaixonado por tecnologia e busco me desenvolver continuamente para me tornar um profissional cada vez melhor.
 
 💬 Gosto de aprender e entender, sou uma pessoa calma, organizada, gosto de trabalhar em equipe de modo a evitar conflitos e realizar as atividades de maneira eficiente.
 
