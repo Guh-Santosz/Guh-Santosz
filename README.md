@@ -1,20 +1,18 @@
-<h1 align="center">Seja bem-vindo! 😀</h1>
+<h1 align="center">Seja bem-vindo!</h1>
 
 <p align="center">Lugar reservado para contar um pouco de mim e o que faço.</p>
 
 ---
 
-## 😜 Sobre mim
+## Sobre mim
 
-👋 Olá! Meu nome é **Gustavo Santos**, tenho 19 anos, sou apaixonado por tecnologia e busco me desenvolver continuamente para me tornar um profissional cada vez melhor.
+Olá! Meu nome é **Gustavo Santos**, tenho 19 anos, sou apaixonado por tecnologia e busco me desenvolver continuamente para me tornar um profissional cada vez melhor.
 
-💬 Gosto de aprender e entender, sou uma pessoa calma, organizada, gosto de trabalhar em equipe de modo a evitar conflitos e realizar as atividades de maneira eficiente.
-
-🚀 Adoro conversar sobre ideias e melhorias em projetos. Sou proativo, curioso e estou sempre buscando evoluir.
+Gosto de aprender e entender, sou uma pessoa calma, organizada, gosto de trabalhar em equipe de modo a evitar conflitos e realizar as atividades de maneira eficiente.
 
 ---
 
-## 💻 Linguagens que tenho mais domínio
+## Linguagens que tenho mais domínio
 
 <div align="center">
 
@@ -29,7 +27,7 @@
 
 ---
 
-## 🎓 Formações
+## Formações
 
 | Instituição             | Curso                                | Estado     |
 |-------------------------|--------------------------------------|------------|
@@ -38,7 +36,7 @@
 
 ---
 
-## 👨‍💻 Cursos 
+## Cursos 
 
 | Nome do Curso                                         | Instituição                            | Duração | Estado      |
 |-------------------------------------------------------|-----------------------------------------|---------|-------------|
@@ -49,7 +47,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## Minhas Estatísticas
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guh-Santosz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -58,7 +56,7 @@
 
 ---
 
-## 🔗 Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-santos-4982842b5" target="_blank">
